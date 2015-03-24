@@ -1,0 +1,9 @@
+[submodule "lib/company-mode"]
+	path = lib/company-mode
+	url = git@github.com:company-mode/company-mode.git
+[submodule "lib/alchemist.el"]
+	path = lib/alchemist.el
+	url = git@github.com:tonini/alchemist.el.git
+[submodule "lib/emacs-elixir"]
+	path = lib/emacs-elixir
+	url = git@github.com:elixir-lang/emacs-elixir.git
